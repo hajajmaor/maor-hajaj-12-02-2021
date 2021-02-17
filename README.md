@@ -6,7 +6,8 @@ The project is using Accuweather api to serve the data.
 
 ## Screenshots
 
-<img src="https://github.com/hajajmaor/maor-hajaj-12-02-2021/blob/master/assets/screenshots/default.jpg">
+![alt text](https://github.com/hajajmaor/maor-hajaj-12-02-2021/blob/master/assets/screenshots/default.jpg")
+
 
 ## Getting Started
 

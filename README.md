@@ -1,3 +1,10 @@
+<style>
+img {
+    width: 100px;
+    height: 250px;
+}
+</style>
+
 # weather_app
 
 A Flutter project use to search, mark favorites and view 5-day weather forcast.
@@ -6,8 +13,9 @@ The project is using Accuweather api to serve the data.
 
 ## Screenshots
 
-![alt text](https://github.com/hajajmaor/maor-hajaj-12-02-2021/blob/master/assets/screenshots/default.jpg")
+<img src="https://github.com/hajajmaor/maor-hajaj-12-02-2021/blob/master/assets/screenshots/default.jpg">
 
+<img src="https://github.com/hajajmaor/maor-hajaj-12-02-2021/blob/master/assets/screenshots/default_black_fahr.jpg">
 
 ## Getting Started
 

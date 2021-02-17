@@ -10,6 +10,13 @@ The project is using Accuweather api to serve the data.
 <img src="https://github.com/hajajmaor/maor-hajaj-12-02-2021/blob/master/assets/screenshots/default.jpg" height="300px">
 
 <img src="https://github.com/hajajmaor/maor-hajaj-12-02-2021/blob/master/assets/screenshots/default_black_fahr.jpg" height="300px">
+
+<img src="https://github.com/hajajmaor/maor-hajaj-12-02-2021/blob/master/assets/screenshots/autocomplete1.jpg" height="300px">
+
+<img src="https://github.com/hajajmaor/maor-hajaj-12-02-2021/blob/master/assets/screenshots/2nd_city.jpg" height="300px">
+
+<img src="https://github.com/hajajmaor/maor-hajaj-12-02-2021/blob/master/assets/screenshots/favorites.jpg" height="300px">
+
 </div>
 ## Getting Started
 

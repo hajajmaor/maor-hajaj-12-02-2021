@@ -28,3 +28,7 @@ If you want to run with Docker driver, build the image, and run with -p x:5000, 
 
 One last thing in order to run locally,
 change the value in `/lib/services/api_service.dart:15` to the url of your flask server.
+
+### P.S.
+
+In order the change to the local server, pull the drawer in the main page and uncheck the checkbox.

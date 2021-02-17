@@ -1,8 +1,8 @@
 # weather_app
 
-A Flutter project use to search, mark favorites and view 5-day weather forcast.
+A Flutter project used to search, mark favorites and view 5-day weather forecast.
 
-The project is using Accuweather api to serve the data.
+The project uses Accuweather api to serve the data.
 
 ## Screenshots
 

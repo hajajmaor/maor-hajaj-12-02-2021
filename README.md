@@ -6,10 +6,11 @@ The project is using Accuweather api to serve the data.
 
 ## Screenshots
 
-<img src="https://github.com/hajajmaor/maor-hajaj-12-02-2021/blob/master/assets/screenshots/default.jpg" height="250px">
+<div>
+<img src="https://github.com/hajajmaor/maor-hajaj-12-02-2021/blob/master/assets/screenshots/default.jpg" height="300px">
 
-<img src="https://github.com/hajajmaor/maor-hajaj-12-02-2021/blob/master/assets/screenshots/default_black_fahr.jpg" height="250px">
-
+<img src="https://github.com/hajajmaor/maor-hajaj-12-02-2021/blob/master/assets/screenshots/default_black_fahr.jpg" height="300px">
+</div>
 ## Getting Started
 
 Before even cloning the repo, please go to [Accuweather](https://www.accuweather.com/) website and sign up in order to get the api key.

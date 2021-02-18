@@ -18,6 +18,7 @@ The project uses Accuweather api to serve the data.
 <img src="https://github.com/hajajmaor/maor-hajaj-12-02-2021/blob/master/assets/screenshots/favorites.jpg" height="300px">
 
 </div>
+
 ## Getting Started
 
 Before even cloning the repo, please go to [Accuweather](https://www.accuweather.com/) website and sign up in order to get the api key.

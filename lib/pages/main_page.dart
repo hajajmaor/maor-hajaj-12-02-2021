@@ -32,7 +32,7 @@ class _MainPageState extends State<MainPage> {
     return Scaffold(
       drawer: MainDrawer(),
       extendBody: true,
-      resizeToAvoidBottomPadding: false,
+      // resizeToAvoidBottomPadding: false,
       resizeToAvoidBottomInset: false,
       appBar: AppBar(
         leading: IconButton(
@@ -81,7 +81,7 @@ class _MainPageState extends State<MainPage> {
                     cityName: _controller.text,
                     onPressed: () {
                       setState(() {
-                        Scaffold.of(context).showSnackBar(
+                        ScaffoldMessenger.of(context).showSnackBar(
                           SnackBar(
                             content: Text(
                               'Updating..',

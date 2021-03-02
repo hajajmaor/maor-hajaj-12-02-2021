@@ -80,7 +80,7 @@ class CurrentWeatherView extends ConsumerWidget {
                     if (await canLaunch(url))
                       await launch(url);
                     else
-                      Scaffold.of(context).showSnackBar(
+                      ScaffoldMessenger.of(context).showSnackBar(
                         SnackBar(
                           content: Text(
                               'something went wrong, can\'t launch the site.'),
